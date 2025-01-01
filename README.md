@@ -1,5 +1,7 @@
+Intents-Based Chatbot![Screenshot 2024-12-30 161342](https://github.com/user-attachments/assets/da01cfdb-8921-4149-830f-20fb9a5847db)
+
+
 # Intent-Chatbot
-Intents-Based Chatbot
 Description
 Intents-Based Chatbot is an intelligent conversational agent built using Natural Language Processing (NLP) and machine learning techniques. This chatbot is designed to understand user inputs, classify them into predefined intents, and respond with relevant answers.
 
